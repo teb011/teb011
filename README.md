@@ -34,11 +34,11 @@ Still learning and improving.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wh1xdy&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wh1xdy&theme=github-dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=teb011&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=teb011&theme=github-dark&hide_border=true" height="170" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh1xdy&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teb011&layout=compact&theme=github_dark&hide_border=true" />
 
 ---
 
