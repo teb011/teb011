@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Tom</h1>
----
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=28a7d1&center=true&width=500&lines=Learning+Python;Learning+about+drones;Apple+enthusiast;Learning+and+exploring+AI;From+Sweden" />
 </p>
----
 
 ## 🧠 About Me
 
